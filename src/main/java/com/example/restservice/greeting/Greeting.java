@@ -12,5 +12,7 @@ public class Greeting {
 
 	 final long id;
 	 final String content;
+	 final String saludo;
+	 final String hora;
 	
 }
